@@ -20,6 +20,10 @@ to a file system with the ability to execute a few basic commands.
 	- **cat text.txt** : prints the content of a file.
 	- **cp source.txt destination.txt** : creates destination.txt and copies the content of source.txt
 
+## Disclaimer :page_facing_up:
+
+All information and software available on this repository are for educational purposes only. Usage of tools from this repository for attacking targets without prior mutual consent is illegal. It is the end user’s responsibility to obey all applicable local, state and federal laws.
+
 ## Developer :busts_in_silhouette:
  #### Riccardo Nannini :it:
 - [Linkedin](https://www.linkedin.com/in/riccardo-nannini/), [Twitter](https://twitter.com/NanniniRiccardo)
